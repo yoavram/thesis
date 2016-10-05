@@ -5,12 +5,8 @@ PhD thesis
 
 Advisor: Prof. Lilach Hadany
 
-January 2016
+Submitted: February 2016
 
-Tel-Aviv University
+Approved: September 2016
 
-The George S. Wise Faculty of Life Sciences
-
-The Smolarz Family Graduate School and
-
-The Department of Molecular Biology and Ecology of Plants
+Institution: Tel-Aviv University, The George S. Wise Faculty of Life Sciences, The Smolarz Family Graduate School and The Department of Molecular Biology and Ecology of Plants
